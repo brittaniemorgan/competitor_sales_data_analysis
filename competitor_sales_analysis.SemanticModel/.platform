@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "competitor_sales_analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0d4b82d1-4290-47d1-87f5-35518bde75b3"
+  }
+}
